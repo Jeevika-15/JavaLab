@@ -14,7 +14,7 @@
 * [Program-10 Using the concept of multithreading the output of all three threads must be synchronised](#program-10-Using-the-concept-of-multithreading-the-output-of-all-three-threads-must-be-synchronised)
 *[Program-11 Addition of 2 numbers using swing.](#program-11-Addition-of-2-numbers-using-swing)
 *[Program-12 Make a registration form with 10 elements and send the data into database](#program-12-Make-a-registration-form-with-10-elements-and-send-the-data-into-database)
-*[Program-13 Make one calculator in swing](#program-13-make-one-calculator-in-swing)
+*[Program-13 Make one calculator in swing](#program-13-Make-one-calculator-in-swing)
 *[Program-14 Matrix Addition using swing class](#program-14-Matrix-Addition-using-swing-class)
 *[Program-15 Create one jframe apply 10 buttons on that after clicking on each button a new structure is created](#program-15-Create-one-jframe-apply-10-buttons-on-that-after-clicking-on-each-button-a-new-structure-is-created)
 *[Program-16 Just using mouse event create a frame like paint brush with selection of colour and width](#program-16-Just-using-mouse-event-create-a-frame-like-paint-brush-with-selection-of-colour-and-width)
@@ -468,7 +468,7 @@ class DBExample {
 ```
 ---
 
-##Program-13 Make one calculator in swing.
+##Program-13 Make one calculator in swing
 
 ```java
 import javax.swing.*;
