@@ -406,7 +406,7 @@ class Synchronization {
 }
 ```
 ---
-## Program-11 Addition of 2 numbers usign swing
+## Program-11 Addition of 2 numbers using swing
 
 ```java
 import javax.swing.*;
@@ -443,7 +443,7 @@ class AddSwing {
 ```
 
 ---
-##Program-12 Make a registration form with 10 elements and send the data into database.
+##Program-12 Make a registration form with 10 elements and send the data into database
 
 ```java
 import java.sql.*;
