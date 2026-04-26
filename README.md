@@ -4,7 +4,7 @@
 
 * [Program-1 Addition, Subtraction, Multiplication, Division](#program-1-addition-subtraction-multiplication-division)
 * [Program-2 WAP for addition of two distance where each distance is given in m, cm, mm](#program-2-WAP-for-addition-of-two-distance-where-each-distance-is-given-in-m-cm-mm)
-* [Program-3 Test the result by creation of object in main class where each distance is given in m,cm](#program-3-Test-the-result-by-creation-of-object-in-main-class-where-each-distance-is-given-in-m-cm)
+* [Program-3 Test the result by creation of object in main class where each distance is given in m cm](#program-3-Test-the-result-by-creation-of-object-in-main-class-where-each-distance-is-given-in-m-cm)
 * [Program-4 Similarly for time given in hours, min and seconds](#program-4-Similarly-for-time-given-in-hours-min-and-seconds)
 * [Program-5 Time given in hours and minutes](#program-5-Time-given-in-hours-and-minutes)
 * [Program-6 Collect the code from internet for any 5 programs of c language](#program-6-Collect-the-code-from-internet-for-any-5-programs-of-c-language)
@@ -339,7 +339,7 @@ class Array1D {
 ```
 
 ---
-##Program-8 WAP with multiple methods to perform matrix operations.
+##Program-8 WAP with multiple methods to perform matrix operations
 
 ```java
 public class Matrix {
