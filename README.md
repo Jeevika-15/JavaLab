@@ -12,14 +12,14 @@
 * [Program-8 WAP with multiple methods to perform matrix operations](#program-8-WAP-with-multiple-methods-to-perform-matrix-operations)
 * [Program-9 WAP using three classes to print 1-100 with and without thread and analyse the output and repeat the same program using runnable interface](#program-9-WAP-using-three-classes-to-print-1-100-with-and-without-thread-and-analyse-the-output-and-repeat-the-same-program-using-runnable-interface)
 * [Program-10 Using the concept of multithreading the output of all three threads must be synchronised](#program-10-Using-the-concept-of-multithreading-the-output-of-all-three-threads-must-be-synchronised)
-*[Program-11 Addition of 2 numbers using swing.](#program-11-Addition-of-2-numbers-using-swing)
-*[Program-12 Make a registration form with 10 elements and send the data into database](#program-12-Make-a-registration-form-with-10-elements-and-send-the-data-into-database)
-*[Program-13 Make one calculator in swing](#program-13-Make-one-calculator-in-swing)
-*[Program-14 Matrix Addition using swing class](#program-14-Matrix-Addition-using-swing-class)
-*[Program-15 Create one jframe apply 10 buttons on that after clicking on each button a new structure is created](#program-15-Create-one-jframe-apply-10-buttons-on-that-after-clicking-on-each-button-a-new-structure-is-created)
-*[Program-16 Just using mouse event create a frame like paint brush with selection of colour and width](#program-16-Just-using-mouse-event-create-a-frame-like-paint-brush-with-selection-of-colour-and-width)
-*[Program-19 Create one small array of size 5 apply array out of bounds exception using try catch give a proper message in catch and demonstrate the exception exactly in the same fashion demonstrate arithmetic exception](#program-19-Create-one-small-array-of-size-5-apply-array-out-of-bounds-exception-using-try-catch-give-a-proper-message-in-catch-and-demonstrate-the-exception-exactly-in-the-same-fashion-demonstrate-arithmetic-exception)
-*[Program-20 To test the range of age of one student. Write a program using user defined exception.](#program-20-To-test-the-range-of-age-of-one-student-Write-a-program-using-user-defined-exception.)
+* [Program-11 Addition of 2 numbers using swing.](#program-11-Addition-of-2-numbers-using-swing)
+* [Program-12 Make a registration form with 10 elements and send the data into database](#program-12-Make-a-registration-form-with-10-elements-and-send-the-data-into-database)
+* [Program-13 Make one calculator in swing](#program-13-Make-one-calculator-in-swing)
+* [Program-14 Matrix Addition using swing class](#program-14-Matrix-Addition-using-swing-class)
+* [Program-15 Create one jframe apply 10 buttons on that after clicking on each button a new structure is created](#program-15-Create-one-jframe-apply-10-buttons-on-that-after-clicking-on-each-button-a-new-structure-is-created)
+* [Program-16 Just using mouse event create a frame like paint brush with selection of colour and width](#program-16-Just-using-mouse-event-create-a-frame-like-paint-brush-with-selection-of-colour-and-width)
+* [Program-19 Create one small array of size 5 apply array out of bounds exception using try catch give a proper message in catch and demonstrate the exception exactly in the same fashion demonstrate arithmetic exception](#program-19-Create-one-small-array-of-size-5-apply-array-out-of-bounds-exception-using-try-catch-give-a-proper-message-in-catch-and-demonstrate-the-exception-exactly-in-the-same-fashion-demonstrate-arithmetic-exception)
+* [Program-20 To test the range of age of one student. Write a program using user defined exception.](#program-20-To-test-the-range-of-age-of-one-student-Write-a-program-using-user-defined-exception.)
 
 # JavaLab
 
