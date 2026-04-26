@@ -18,6 +18,8 @@
 * [Program-14 Matrix Addition using swing class](#program-14-Matrix-Addition-using-swing-class)
 * [Program-15 Create one jframe apply 10 buttons on that after clicking on each button a new structure is created](#program-15-Create-one-jframe-apply-10-buttons-on-that-after-clicking-on-each-button-a-new-structure-is-created)
 * [Program-16 Just using mouse event create a frame like paint brush with selection of colour and width](#program-16-Just-using-mouse-event-create-a-frame-like-paint-brush-with-selection-of-colour-and-width)
+* [Program-17 Create a package of any 5 classes of your choice and import it](#program-17-Create-a-package-of-any-5-classes-of-your-choice-and-import-it)
+* [Program-18 Create one package and sub package import and test it](#program-18-Create-one-package-and-sub-package-import-and-test-it)
 * [Program-19 Create one small array of size 5 apply array out of bounds exception using try catch give a proper message in catch and demonstrate the exception exactly in the same fashion demonstrate arithmetic exception](#program-19-Create-one-small-array-of-size-5-apply-array-out-of-bounds-exception-using-try-catch-give-a-proper-message-in-catch-and-demonstrate-the-exception-exactly-in-the-same-fashion-demonstrate-arithmetic-exception)
 * [Program-20 To test the range of age of one student. Write a program using user defined exception.](#program-20-To-test-the-range-of-age-of-one-student-Write-a-program-using-user-defined-exception.)
 
@@ -94,7 +96,7 @@ class Distance {
 }
 ```
 ---
-##Program-3 Test the result by creation of object in main class where each distance is given in m cm.
+## Program-3 Test the result by creation of object in main class where each distance is given in m cm.
 
 ```java
 public class Distance2 {
@@ -339,7 +341,7 @@ class Array1D {
 ```
 
 ---
-##Program-8 WAP with multiple methods to perform matrix operations
+## Program-8 WAP with multiple methods to perform matrix operations
 
 ```java
 public class Matrix {
@@ -383,7 +385,7 @@ public class Matrix {
 }
 ```
 ---
-##Program-10 Using the concept of multithreading the output of all three threads must be synchronised.
+## Program-10 Using the concept of multithreading the output of all three threads must be synchronised.
 ```java
 class MyThread extends Thread {
     public void run() {
@@ -443,7 +445,7 @@ class AddSwing {
 ```
 
 ---
-##Program-12 Make a registration form with 10 elements and send the data into database
+## Program-12 Make a registration form with 10 elements and send the data into database
 
 ```java
 import java.sql.*;
@@ -468,7 +470,7 @@ class DBExample {
 ```
 ---
 
-##Program-13 Make one calculator in swing
+## Program-13 Make one calculator in swing
 
 ```java
 import javax.swing.*;
@@ -533,7 +535,7 @@ class Calculator extends JFrame implements ActionListener {
 }
 ```
 ---
-##Program-14 Matrix Addition using swing class.
+## Program-14 Matrix Addition using swing class.
 
 ```java
 import javax.swing.*;
@@ -616,7 +618,7 @@ class MatrixAdd extends JFrame implements ActionListener {
 }
 ```
 ---
-##Program-15 Create one jframe apply 10 buttons on that after clicking on each button a new structure is created.
+## Program-15 Create one jframe apply 10 buttons on that after clicking on each button a new structure is created.
 
 ```java
 import javax.swing.*;
@@ -638,7 +640,7 @@ class Shapes {
 }
 ```
 ---
-##Program-16 Just using mouse event create a frame like paint brush with selection of colour and width.
+## Program-16 Just using mouse event create a frame like paint brush with selection of colour and width.
 ```java
 import javax.swing.*;
 import java.awt.event.*;
@@ -662,7 +664,32 @@ class PaintExample extends JFrame implements MouseMotionListener {
 }
 ```
 ---
-##Program-19 Create one small array of size 5 apply array out of bounds exception using try catch give a proper message in catch and demonstrate the exception exactly in the same fashion demonstrate arithmetic exception.
+## Program-17 Create a package of any 5 classes of your choice and import it
+
+```java
+package mypack;
+
+public class A {
+    public void show() {
+        System.out.println("Hello from package");
+    }
+}
+```
+---
+## Program-18 Create one package and sub package import and test it
+
+```java
+import mypack;
+
+class Test {
+    public static void main(String[] args) {
+        A obj = new A();
+        obj.show();
+    }
+}
+```
+---
+## Program-19 Create one small array of size 5 apply array out of bounds exception using try catch give a proper message in catch and demonstrate the exception exactly in the same fashion demonstrate arithmetic exception.
 
 ```java
 class ExceptionDemo {
@@ -683,7 +710,7 @@ class ExceptionDemo {
 }
 ```
 ---
-##Program-20 To test the range of age of one student. Write a program using user defined exception.
+## Program-20 To test the range of age of one student. Write a program using user defined exception.
 
 ```java
 class AgeException extends Exception {
